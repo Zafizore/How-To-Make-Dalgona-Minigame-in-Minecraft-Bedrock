@@ -8,7 +8,7 @@ link : [How To Make Dalgona Minigame in Minecraft Bedrock](https://youtu.be/fvBl
 
 ---
 
-### Code from my Youtube Video
+### Commands from my Youtube Video
 <img src="images/Commandblock Layout.png" alt="Local Image" width="200" />
 
 #### 1st command
