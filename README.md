@@ -77,14 +77,14 @@ Explanation :<br>
 These x,y, and z arguments correspond to the coordinate of the most-behind corner when you're facing at x and z positive where you don't want the player to be.<br>
 The dx,dy, and dz arguments correspond to the dimension of the area relative to the coordinate I mentioned.
 
-<img src="images/1st Command.png" alt="1st Command" width="" />
+<img src="images/1st Command.png" alt="1st Command" width="853" />
 <br><br>
 
 > 3 70 -6
 
 This coordinate is where you want the player to get teleported to
 
-<img src="images/1st Command(1).png" alt="Command 1st Command(1)" width="" />
+<img src="images/1st Command(1).png" alt="1st Command(1)" width="853" />
 <br><br>
 
 ### 2nd command
@@ -96,7 +96,7 @@ This coordinate is where you want the player to get teleported to
 /execute if blocks -2 55 -17 8 55 -7 -2 63 -17 all run say player @p[c=1] has completed this challenge
 ```
 
-<img src="images/2nd Command.png" alt="Command 2nd Command" width="" />
+<img src="images/2nd Command.png" alt="2nd Command" width="853" />
 <br><br>
 
 This command is actively comparing these two layers. If they're identical, this command will send a message to all players indicating a player has completed the game.<br><br>
@@ -109,6 +109,6 @@ This command is actively comparing these two layers. If they're identical, this 
 ```plaintext
 clone -2 59 -17 8 59 -7 -2 63 -17
 ```
-<img src="images/3rd Command.png" alt="Command 2nd Command" width="" />
+<img src="images/3rd Command.png" alt="3rd Command" width="853" />
 
 This command clones the middle layer to the first layer, so after a player completed the game, it'll return to its original form.
